@@ -1,0 +1,1 @@
+[Getting Started with Technology: Think Like an Engineer](https://www.lynda.com/Software-Development-tutorials/Getting-Started-Technology-Think-Like-Engineer/574696-2.html?certificate=C610DD16E0D84004B256C6EDEA3FC9E1)
